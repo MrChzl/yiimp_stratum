@@ -1,2 +1,4 @@
+THIS IS PURELY AN ATTEMPT AT WHAT I CALL SMUSH DEVELOPMENT. DO NOT USE FOR PRODUCTION UNDER ANY CIRCUMSTANCES!!!!!
+
 # yiimp_stratum
 This is the stratum code from miner-control.de
